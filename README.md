@@ -1,4 +1,4 @@
-There are some common commands to be quickly checked and recalled. 
+There are some common commands to be quickly checked and also let me bring back the memory. 
 
 1.git init
 
