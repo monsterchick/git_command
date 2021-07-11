@@ -14,7 +14,7 @@ git remote -v (to see what remote links there are)
 5.git push -u origin master ("-u" means that there is no need to type "origin master" anymore)
 
 
-git clone url newname (give a new name to avoid repeat the folder name)===
+git clone url newname (give a new name to avoid repeat the folder name)
 ===>>cd newname
 ===>> change content and push
 ===>> cd ..
