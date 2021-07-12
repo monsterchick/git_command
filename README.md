@@ -4,7 +4,7 @@ There are some common commands to be quickly checked and also let me bring back 
 
 2.git add filename / add .
 
-3.git commit -m "first commit"
+3.git commit -m "first commit" 
 git status (to check if the file commited)
 git rm --cached file (recover the file from commited status)
 
